@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Deletion Instructions - todo-oct</title>
+</head>
+<body>
+    <h1>Data Deletion Instructions for todo-oct</h1>
+    <p>If you want to delete your data from our app, please contact us via email at: <a href="mailto:hamzamalikdev9010@gmail.com">hamzamalikdev9010@gmail.com</a>.</p>
+    <p>In your request, please include:</p>
+    <ul>
+        <li>Your full name</li>
+        <li>Your registered email address</li>
+        <li>A clear statement that you wish to delete your data associated with todo-oct</li>
+    </ul>
+</body>
+</html>
